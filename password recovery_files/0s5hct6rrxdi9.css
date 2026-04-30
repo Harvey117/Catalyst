@@ -1,0 +1,2 @@
+.shimmering-loader{background:linear-gradient(to right, hsl(var(--border-default)) 4%, hsl(var(--background-surface-200)) 25%, hsl(var(--border-default)) 36%);background-size:1000px 100%;animation:2s linear infinite shimmer}.dark .shimmering-loader{background:linear-gradient(to right, hsl(var(--border-default)) 4%, hsl(var(--border-control)) 25%, hsl(var(--border-default)) 36%);background-size:1000px 100%;animation:2s linear infinite shimmer}@keyframes shimmer{0%{background-position:-1000px 0}to{background-position:1000px 0}}
+/*# sourceMappingURL=0f.xdk5n_d7we.css.map*/
